@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "slug": "development",
+    "title": "Development",
+    "img": "/images/category/01.svg",
+    "type": "icon",
+    "categoryCount": "130"
+  },
+  {
+    "id": 2,
+    "slug": "business",
+    "title": "Business",
+    "img": "/images/category/02.svg",
+    "type": "icon",
+    "categoryCount": "144"
+  },
+  {
+    "id": 3,
+    "slug": "design-art",
+    "title": "Design & Art",
+    "img": "/images/category/03.svg",
+    "type": "icon",
+    "categoryCount": "120"
+  },
+  {
+    "id": 4,
+    "slug": "marketing",
+    "title": "Marketing",
+    "img": "/images/category/04.svg",
+    "type": "icon",
+    "categoryCount": "118"
+  },
+  {
+    "id": 5,
+    "slug": "music",
+    "title": "Music",
+    "img": "/images/category/05.svg",
+    "type": "icon",
+    "categoryCount": "123"
+  },
+  {
+    "id": 6,
+    "slug": "development",
+    "title": "Development",
+    "img": "/images/category/06.svg",
+    "type": "icon",
+    "categoryCount": "143"
+  },
+  {
+    "id": 7,
+    "slug": "accounting",
+    "title": "Accounting",
+    "img": "/images/category/07.svg",
+    "type": "icon",
+    "categoryCount": "152"
+  },
+  {
+    "id": 8,
+    "slug": "business",
+    "title": "Business",
+    "img": "/images/category/02.svg",
+    "type": "icon",
+    "categoryCount": "144"
+  },
+  {
+    "id": 9,
+    "slug": "design-art",
+    "title": "Design & Art",
+    "img": "/images/category/03.svg",
+    "type": "icon",
+    "categoryCount": "120"
+  },
+  {
+    "id": 10,
+    "slug": "marketing",
+    "title": "Marketing",
+    "img": "/images/category/04.svg",
+    "type": "icon",
+    "categoryCount": "118"
+  },
+  {
+    "id": 11,
+    "slug": "personal-development",
+    "title": "Personal Development",
+    "img": "/images/course/01.png",
+    "type": "image",
+    "categoryCount": "130"
+  },
+  {
+    "id": 12,
+    "slug": "financial-analysis",
+    "title": "Financial Analysis",
+    "img": "/images/course/02.png",
+    "type": "image",
+    "categoryCount": "120"
+  },
+  {
+    "id": 13,
+    "slug": "graphic-design",
+    "title": "Graphic Design",
+    "img": "/images/course/03.png",
+    "type": "image",
+    "categoryCount": "110"
+  },
+  {
+    "id": 14,
+    "slug": "machine-learning",
+    "title": "Machine Learning",
+    "img": "/images/course/04.png",
+    "type": "image",
+    "categoryCount": "90"
+  },
+  {
+    "id": 15,
+    "slug": "music-dance",
+    "title": "Music & Dance",
+    "img": "/images/course/05.png",
+    "type": "image",
+    "categoryCount": "13"
+  },
+  {
+    "id": 16,
+    "slug": "cyber-security",
+    "title": "Cyber Security",
+    "img": "/images/course/06.png",
+    "type": "image",
+    "categoryCount": "130"
+  },
+  {
+    "id": 17,
+    "slug": "ethical-hacking",
+    "title": "Ethical Hacking",
+    "img": "/images/course/07.png",
+    "type": "image",
+    "categoryCount": "140"
+  },
+  {
+    "id": 18,
+    "slug": "health-fitness",
+    "title": "Health & Fitness",
+    "img": "/images/course/08.png",
+    "type": "image",
+    "categoryCount": "90"
+  },
+  {
+    "id": 19,
+    "slug": "teaching-academics",
+    "title": "Teaching & Academics",
+    "img": "/images/course/09.png",
+    "type": "image",
+    "categoryCount": "200"
+  },
+  {
+    "id": 20,
+    "slug": "ethical-hacking",
+    "title": "Ethical Hacking",
+    "img": "/images/course/10.png",
+    "type": "image",
+    "categoryCount": "140"
+  },
+  {
+    "id": 21,
+    "slug": "health-fitness",
+    "title": "Health & Fitness",
+    "img": "/images/course/11.png",
+    "type": "image",
+    "categoryCount": "90"
+  },
+  {
+    "id": 22,
+    "slug": "teaching-academics",
+    "title": "Teaching & Academics",
+    "img": "/images/course/12.png",
+    "type": "image",
+    "categoryCount": "200"
+  }
+]
