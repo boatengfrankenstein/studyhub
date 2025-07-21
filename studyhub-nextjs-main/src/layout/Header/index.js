@@ -9,6 +9,7 @@ import HeaderCategory from './Category';
 import MenuItems from './MenuItems';
 import MobileMenuItems from './MobileMenuItems';
 import HeaderTopbar from './Topbar';
+import { useAuth } from '@clerk/nextjs';
 
 export default function Header( props ) {
 	const {headerClass, headerLogo, topbarEnable, categoryEnable, menuItemsLeft, authenticationHeader} = props;
@@ -18,7 +19,7 @@ export default function Header( props ) {
 	const [searchModal, setSearchModal] = useState(false);
 	const [cartModalOpen, setCartModalOpen] = useState(false);
 	const [authorDropdown, setAuthorDropdown] = useState(false);
-
+    const { isLoaded, isSignedIn, userId, sessionId, getToken } = useAuth()
 	const [totalPrice, setTotalPrice] = useState(0);
 
 	const addedToCart = useSelector((state) => state.product);
@@ -145,7 +146,7 @@ export default function Header( props ) {
 											</div>
 										</div>
 										{
-											!admin ?
+											(!admin && !isSignedIn)?
 											<div className="buttons-area">
 												<Link href="/sign-in" className="rts-btn btn-border">Log In</Link>
 												<Link href="/sign-up" className="rts-btn btn-primary">Sign Up</Link>

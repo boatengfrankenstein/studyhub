@@ -10,12 +10,9 @@ const SignUpModule = dynamic(() => import('@/modules/SignUp'), {
 export default function Home() {
 
 	return (
-		<main>
-			<Header 
-				authenticationHeader
-			/>
+		
 			<SignUp />
-			{/* <SignUpModule /> */}
-		</main>
+		
+		
 	)
 }

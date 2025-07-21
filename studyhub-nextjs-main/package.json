@@ -33,7 +33,8 @@
     "redux": "^5.0.1",
     "sass": "^1.69.5",
     "swiper": "^11.1.4",
-    "yet-another-react-lightbox": "^3.16.0"
+    "yet-another-react-lightbox": "^3.16.0",
+    "zustand": "^5.0.5"
   },
   "devDependencies": {
     "@types/node": "^22.15.18",
